@@ -14,6 +14,6 @@ script SQL sobre la base de datos/catalogo tipo
 </p>
 
 <p align="left"> 
-	<img src="https://github.com/pm-springboot/jpa-crud-springboot/blob/master/get-postman-example.jpg" width="350"/> 
+	<img src="https://github.com/pm-springboot/jpa-crud-springboot/blob/master/get-postman-example.jpg" width="500"/> 
 </p>
 

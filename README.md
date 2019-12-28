@@ -5,6 +5,10 @@
 
 script SQL sobre la base de datos/catalogo tipo
 
-<p align="center"> 
-	<img src="https://github.com/pm-springboot/jpa-crud-springboot/blob/master/script.jpg" width="300"/> 
+<p align="left"> 
+	<img src="https://github.com/pm-springboot/jpa-crud-springboot/blob/master/script.jpg" width="350"/> 
+</p>
+
+<p align="left"> 
+	<img src="https://github.com/pm-springboot/jpa-crud-springboot/blob/master/crud-posman-1.jpg" width="350"/> 
 </p>
